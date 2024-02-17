@@ -1,6 +1,6 @@
 # PyTorch for Deep Learning Introduction
 
-Welcome to the PyTorch for Deep Learning introductory course study materisl. In this repo I will upload everything I learn from pytorch youtube videos....
+Welcome to the PyTorch for Deep Learning introductory course study materisl. In this repo I will upload everything I learn from pytorch youtube videos.
 
 ## Getting Started
 
